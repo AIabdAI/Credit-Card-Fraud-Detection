@@ -125,7 +125,7 @@ Cleaned repeated class 0 entries, keeping representative samples.
 Removed 25% of class 0 data randomly.
 
 ### 🔎 Observations:
-- Training Error became **flat again** → underfitting.
+- Training Error became **flat again** → overfitting.
 - Validation Error increased → performance drop.
 - Model was biased again.
 
