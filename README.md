@@ -166,11 +166,4 @@ This project demonstrates expertise in:
 - Analyzing overfitting/generalization  
 - Building high-performance fraud detection models under real-world conditions
 
----
 
-## 📷 Learning Curve Visuals
-
-Include the following in your repo:
-- `phase1_curve.png`  
-- `phase2_curve.png`  
-- `phase3_curve.png`
